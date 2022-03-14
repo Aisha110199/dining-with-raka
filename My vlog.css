@@ -1,0 +1,20 @@
+.VlogHeader{
+    text-align: center;
+    font-size: 60px;
+    
+    
+}
+.vlogdiv{
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20 px;
+    margin-bottom: 20px;
+    border: solid blue 3px;
+}
+.authorName
+{
+    color:rgb(40, 209, 91);
+}
